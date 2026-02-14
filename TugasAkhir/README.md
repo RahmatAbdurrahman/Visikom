@@ -20,6 +20,8 @@ pip install opencv-python numpy matplotlib
 ```
 
 📁 Struktur Folder
+<img width="579" height="129" alt="image" src="https://github.com/user-attachments/assets/eecf52a9-7326-4916-bb49-1b90622244e3" />
+
 .
 ├── images/           # Folder berisi dataset citra (FM1.jpeg, FM2.jpeg)
 ├── orb_bf.py         # Skrip pencocokan ORB + Brute-Force
