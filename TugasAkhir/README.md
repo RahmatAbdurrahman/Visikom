@@ -20,14 +20,8 @@ pip install opencv-python numpy matplotlib
 ```
 
 📁 Struktur Folder
-<img width="579" height="129" alt="image" src="https://github.com/user-attachments/assets/eecf52a9-7326-4916-bb49-1b90622244e3" />
 
-.
-├── images/           # Folder berisi dataset citra (FM1.jpeg, FM2.jpeg)
-├── orb_bf.py         # Skrip pencocokan ORB + Brute-Force
-├── sift_bf.py        # Skrip pencocokan SIFT + Brute-Force (Ratio Test)
-├── sift_flann.py     # Skrip pencocokan SIFT + FLANN Matcher
-└── README.md         # Dokumentasi proyek
+<img width="332" height="461" alt="image" src="https://github.com/user-attachments/assets/efab55c7-71ba-479a-b3d1-8d3b3ab39d65" />
 
 🚀 Cara Menjalankan
 Pastikan dataset gambar berada di dalam folder ./images/ dengan nama FM1.jpeg dan FM2.jpeg.
